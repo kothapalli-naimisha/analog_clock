@@ -1,4 +1,4 @@
-# analog_clock
+# ANALOG CLOCK
 
 I've created a Python Analog Clock using tkinter
 
